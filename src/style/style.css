@@ -76,3 +76,11 @@ h2 {
   outline: 0;
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
+.button {
+  margin-top: 5px;
+  padding: 10px;
+  outline: 0;
+  background: rgba(165, 29, 29, 0.1);
+  border: 1px solid rgba(63, 30, 30, 0.1);
+  width: 100%;
+}
